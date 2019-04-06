@@ -6,5 +6,5 @@ def square_array(array)
     sq_array.push(number**2)
   end
   sq_array
-  =end 
+  =end
 end
